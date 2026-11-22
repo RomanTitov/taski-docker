@@ -1,0 +1,7 @@
+# Исключения из копирования в докер-образ
+venv
+.env
+.git
+db.sqlite3
+.idea
+.vscode
